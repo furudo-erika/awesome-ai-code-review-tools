@@ -2,7 +2,18 @@
 
 This is an awesome list of Artificial Intelligence (AI) powered tools designed to enhance and automate various aspects of the code review process. These tools leverage machine learning, natural language processing, and static analysis to identify potential bugs, security vulnerabilities, performance issues, and adherence to coding standards, ultimately aiming to improve code quality and accelerate development cycles.
 
-Before diving into the AI code review tools, for those looking to build, document, test, and mock APIs effectively, check out [apidog.com](https://apidog.com). A robust API design and development platform like Apidog can significantly streamline your workflow, complementing the insights gained from AI code review by ensuring your API contracts and implementations are solid from the ground up.
+> Building AI apps with Claude Code, Codex, or your favorite API client?
+>
+> Try **[Blackmagic AI](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-text)**, an OpenAI-compatible gateway and cheaper OpenRouter alternative. Use one API key, prepaid credits, and top models while cutting AI model costs by up to 50%.
+
+</br>
+
+[<img width="1490" height="915" alt="Blackmagic AI OpenAI-compatible gateway dashboard" src="https://github.com/user-attachments/assets/af41beba-3fe0-4409-bfd6-03c6617a6ab1" />](https://blackmagic.engineering/?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-image)
+
+</br>
+
+> **[Compare model pricing](https://blackmagic.engineering/models?utm_source=github&utm_medium=awesome-list&utm_campaign=postman-alternatives&utm_content=cta-pricing)**
+
 
 ---
 
