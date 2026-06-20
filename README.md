@@ -78,6 +78,11 @@ This category includes tools that offer a broad range of AI-driven code analysis
     *   **Description:** Uses AI to write Java unit tests, helping developers create comprehensive test suites quickly and improve code coverage. While not directly a "reviewer," it improves code quality by generating tests that often highlight edge cases and potential bugs.
     *   **Link:** [https://www.diffblue.com/](https://www.diffblue.com/)
 
+13. **Kodus**
+    *    **Description:** Open-source AI code review platform that reviews pull requests with repository context, custom rules, and BYOK support.
+    *    **Link:** https://kodus.io/
+    *    **GitHub/Docs:** https://github.com/kodustech/kodus-ai
+
 ---
 
 ## 🤖 AI Assistants & Generative Code Review
