@@ -201,6 +201,11 @@ This section highlights tools that might be newer, more specialized, or have a u
     *   **Description:** Platforms like Stack AI allow you to build custom AI agents. You could potentially build your own AI code review bot using their frameworks and integrate it with your codebase.
     *   **Link:** [https://www.stack-ai.com/](https://www.stack-ai.com/) (Example of a platform to build custom AI tools)
 
+37. **CodeOtter**
+    *   **Description:** A self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea. It scores each PR (quality, risk, blast radius, tests), enforces merge gates as commit status checks, posts inline suggestion fixes and follows the repository's AGENTS.md/CLAUDE.md. Runs offline on local GGUF models (llama.cpp) or with your own API key.
+    *   **Link:** [https://codeotter.io/](https://codeotter.io/)
+    *   **GitHub/Docs:** [https://github.com/dharmeshgurnani/CodeOtter](https://github.com/dharmeshgurnani/CodeOtter)
+
 ---
 
 ##  considerations when choosing an AI code review tool
